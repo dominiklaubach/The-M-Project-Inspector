@@ -1,0 +1,7 @@
+{
+    "name": "The-M-Project Inspector",
+    "version": "1.0.0",
+    "description": "Extension for the Developer Tools to display the properties of an associated The-M-Project object.",
+    "devtools_page": "tmp_inspector.html",
+    "manifest_version": 2
+}
